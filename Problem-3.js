@@ -5,5 +5,5 @@ var orangePrice = 340;
 
 var total = applePrice + orangePrice;
 console.log('Total = ' + total + ' TK');
-var shopkeeperReturn = momGave - total;
-console.log('Shop Keeper Return = ' + shopkeeperReturn + ' TK');
+var shopKeeperReturn = momGave - total;
+console.log('Shop Keeper Return = ' + shopKeeperReturn + ' TK');
